@@ -52,7 +52,7 @@ gem 'cancan'
 
 gem'paperclip'
 
-gem 'aws-sdk'
+gem 'aws-sdk', '~> 2'
 
 gem 'friendly_id'
 
